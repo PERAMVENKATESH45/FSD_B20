@@ -1,13 +1,17 @@
+<<<<<<< HEAD
 ________________________________________________________________________________
 ________________________________________________________________________________
 GITHUB SESSION STARTED:
 ________________________________________________________________________________
 INITIAL COMMANDS START:
 
+=======
+>>>>>>> 478b17e30d6352a34784523d3d053e53fa903181
 git init
 git add .
 git commit -m"updated files"
 git branch -M main
+<<<<<<< HEAD
 git remote add origin git remote add origin https://github.com/PERAMVENKATESH45/FSD_B20.git
 git push -u origin main
 ________________________________________________________________________________
@@ -27,3 +31,7 @@ GITHUB SESSION DONE
 GITHUB SESSION DONE
 ________________________________________________________________________________
 ________________________________________________________________________________
+=======
+git remote add origin https://github.com/PERAMVENKATESH45/FSD_B20.git
+git push -u origin main
+>>>>>>> 478b17e30d6352a34784523d3d053e53fa903181
